@@ -53,3 +53,7 @@
 原创案例从原始细纲出发，依次完成诊断、起草和复审。复审发现初稿有一处时间衔接跳得太快，定向补写了一个动作，交代后续结果为何在此时发生。案例由 Codex 辅助起草和复核。[查看完整演示](examples/sluice-gate/walkthrough.md)
 
 README 和示例的组织方式参考了 [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill)。
+
+## 许可证
+
+本仓库的技能、文档和原创示例采用 [MIT 许可证](LICENSE)。
